@@ -1,6 +1,6 @@
-title: "Rob Janssens's blog"
+title: "Rob Janssens"
 author: "Rob Janssens"
-description: "Just sharing my insights to the world."
+#description: "Just sharing my insights to the world."
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -20,7 +20,7 @@ description: "Just sharing my insights to the world."
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
